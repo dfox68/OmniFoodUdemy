@@ -7,6 +7,8 @@ $(document).ready(function(){
             $('nav').removeClass('sticky');
         }
         
+    }, {
+        offset: '60px;'
     });
 });
 
